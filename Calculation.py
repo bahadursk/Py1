@@ -1,4 +1,4 @@
-# Python3.7 program  
+# Python3.7 program  by BAHADUR Sk, Energy calculation
 # Calculations 
 
 def esult(energy, amplitude, time): 
